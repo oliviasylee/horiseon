@@ -12,7 +12,10 @@ As a boot camp student, I’ve refactored existing code for a marketing agency t
 * I’ve added comments before each element or section of the page.
 
 ## Usage
-N/A
+Click the screenshot and it will take you to Horiseon Social Solution Services web page. 
+
+[![horiseon-screenshot](assets/images/horiseon_web.png)](https://oliviasylee.github.io/Horiseon/)
+
 
 ## Credits
 N/A
