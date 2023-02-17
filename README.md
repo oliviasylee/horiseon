@@ -1,4 +1,4 @@
-# Module 1 Challenge - Horiseon
+# Horiseon
 
 ## Description
 As a boot camp student, I’ve refactored existing code for a marketing agency to make the client's homepage more web-accessible. To do this, several requirements must be met as below:
