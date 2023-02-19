@@ -11,9 +11,9 @@ As a boot camp student, I’ve refactored existing code for a marketing agency t
 * Add comments before each element or section of the page.
 
 ## Usage
-Live application deployed at: https://oliviasylee.github.io/Horiseon/
+Live application deployed at: https://oliviasylee.github.io/horiseon/
 
-[![horiseon-screenshot](assets/images/horiseon_web.png)](https://oliviasylee.github.io/Horiseon/)
+[![horiseon-screenshot](assets/images/horiseon_web.png)](https://oliviasylee.github.io/horiseon/)
 
 ## Contributing
 Olivia Seonyeong Lee
